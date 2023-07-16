@@ -5,7 +5,7 @@
 
 
 - 🔭 Ferramentas e tecnlogias com que eu trabalho
-  - Web Server:\
+  - Web Server / Web / Desktop:\
 ![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
@@ -26,7 +26,7 @@
 - 🌱 O que estou estudando
   - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   - ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  - ![CodeWars badge](https://www.codewars.com/users/barzs/badges/micro)
+  - ![CodeWars badge](https://www.codewars.com/users/barzs/badges/micro) - [Repositório](https://github.com/matheusbarzon/codewars)
 
 
 ## Contato:
