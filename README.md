@@ -25,8 +25,8 @@
 
 - 🌱 O que estou estudando
   - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  - ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  - ![CodeWars badge](https://www.codewars.com/users/barzs/badges/micro) - [Repositório](https://github.com/matheusbarzon/codewars)
+  - ![Java Script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  - [![Code Wars](https://www.codewars.com/users/barzs/badges/micro)](https://github.com/matheusbarzon/codewars)
 
 
 ## Contato:
