@@ -25,7 +25,7 @@
 
 - 🌱 O que estou estudando
   - ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  - ![Java Script](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  - [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/matheusbarzon/taskmanager)
   - [![Code Wars](https://www.codewars.com/users/barzs/badges/micro)](https://github.com/matheusbarzon/codewars)
 
 
