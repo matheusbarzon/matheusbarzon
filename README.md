@@ -27,7 +27,8 @@
   - Versionador:\
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-  - Projeto:\
+  - Projetos:\
+  [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/matheusbarzon/products)
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/matheusbarzon/taskmanager)
 
   - Desafios de programação (GoLang, JavaScript, Python, TypeScript):\
